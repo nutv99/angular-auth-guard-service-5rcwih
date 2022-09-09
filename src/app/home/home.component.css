@@ -1,0 +1,15 @@
+.wrapper {
+  background-color: palevioletred;
+  height: 100%;
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+button {
+  background-color: #00d0ff;
+  border: 2px solid #00d0ff;
+  border-radius: 3px;
+  padding: 5px;
+  cursor: pointer;
+}
